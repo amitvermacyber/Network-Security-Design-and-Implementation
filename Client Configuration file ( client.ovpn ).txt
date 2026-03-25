@@ -1,0 +1,11 @@
+                                                                   
+dev tun
+proto udp
+remote 127.0.0.1 1194
+
+ifconfig 10.8.0.2 10.8.0.1
+
+secret /home/kali/ta.key
+
+data-ciphers AES-256-CBC
+verb 3
