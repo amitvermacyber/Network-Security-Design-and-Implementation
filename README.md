@@ -5,9 +5,13 @@ This project focuses on designing and implementing a secure network infrastructu
 <img width="940" height="463" alt="image" src="https://github.com/user-attachments/assets/7f259eb9-dece-4d0a-bc7f-f701d24f1f1e" />
 
 The network topology was designed using Cisco Packet Tracer and consists of multiple components including routers, switches, servers, and a remote user. The network is divided into three main segments:
+
 •	Internal LAN (Local Area Network)
+
 •	DMZ (Demilitarized Zone)
+
 •	External Network (Remote user)
+
 Two routers were used to simulate real-world network architecture. One router acts as a gateway to the external network, while the other functions as a firewall controlling traffic between different network segments.
 
 <h1><b>firewall blocking the pinging requests of the remote user</b></h1>
