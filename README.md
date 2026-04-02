@@ -3,6 +3,7 @@ This project focuses on designing and implementing a secure network infrastructu
 
 <h1><b>Network Design using Cisco Packet Tracer</b></h1>
 <img width="940" height="463" alt="image" src="https://github.com/user-attachments/assets/7f259eb9-dece-4d0a-bc7f-f701d24f1f1e" />
+
 The network topology was designed using Cisco Packet Tracer and consists of multiple components including routers, switches, servers, and a remote user. The network is divided into three main segments:
 •	Internal LAN (Local Area Network)
 •	DMZ (Demilitarized Zone)
